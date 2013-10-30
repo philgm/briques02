@@ -53,6 +53,7 @@
     -->
 	<gap:plugin name="org.apache.cordova.device" />
 	<gap:plugin name="org.apache.cordova.device-orientation" />
+	<gap:plugin name="org.apache.cordova.device-motion" />
 	<gap:plugin name="org.apache.cordova.network-information" />
 	
     <!-- Define app icon for each platform. -->
