@@ -55,7 +55,8 @@
 	<gap:plugin name="org.apache.cordova.device-orientation" />
 	<gap:plugin name="org.apache.cordova.device-motion" />
 	<gap:plugin name="org.apache.cordova.network-information" />
-	<gap:plugin name="org.apache.cordova.battery-status" />	
+	<gap:plugin name="org.apache.cordova.battery-status" />
+	<gap:plugin name="org.apache.cordova.camera" />	
 	
     <!-- Define app icon for each platform. -->
     <icon src="icon.png" />
