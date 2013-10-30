@@ -7,7 +7,7 @@
 <head>
   <meta name="generator" content=
   "HTML Tidy for Linux/x86 (vers 25 March 2009), see www.w3.org" />
-  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta http-equiv="content-type" content="text/html; charset=us-ascii" />
   <meta charset="utf-8" />
 
   <title>Briques, v1</title>
@@ -65,7 +65,7 @@
 
       <h1>Briques de test</h1>
 
-      <p class="lead">Boite à outils avec les fonctions indispensables<br />
+      <p class="lead">Boite a outils avec les fonctions indispensables<br />
       Version 1.0</p>
     </div>
 
@@ -83,19 +83,12 @@
       </div>
 
       <div class="col-lg-2 col-sm-3 col-xs-4">
-        <a href="connection.html"><img src="http://natdia.alwaysdata.net/icons/Camera-256.png" class=
-        "thumbnail img-responsive img-circle" /></a>
-
-        <p class="text-center lead"><a href="connection.html">Connection</a></p>
-      </div>
-
-      <div class="col-lg-2 col-sm-3 col-xs-4">
         <a href="accelero.html"><img src="http://natdia.alwaysdata.net/icons/Camera-256.png" class=
         "thumbnail img-responsive img-circle" /></a>
 
-        <p class="text-center lead"><a href="accelero.html">Accéléromètre</a></p>
-      </div>	  
-	  
+        <p class="text-center lead"><a href="accelero.html">Accelerometre</a></p>
+      </div>
+
       <div class="col-lg-2 col-sm-3 col-xs-4">
         <a href="compass.html"><img src=
         "http://natdia.alwaysdata.net/icons/Compass-256.png" class=
@@ -103,14 +96,13 @@
 
         <p class="text-center lead"><a href="compass.html">Boussole</a></p>
       </div>
-	  
-	        <div class="col-lg-2 col-sm-3 col-xs-4">
+
+      <div class="col-lg-2 col-sm-3 col-xs-4">
         <a href="#"><img src="http://natdia.alwaysdata.net/icons/Camera-256.png" class=
         "thumbnail img-responsive img-circle" /></a>
 
         <p class="text-center lead"><a href="#">Appareil photo</a></p>
-      </div>
-	  
+      </div>	  
     </div>
     <hr />
 
@@ -142,7 +134,7 @@
     </div>
     <hr />
 
-    <h2>Données et communications client-serveur</h2>
+    <h2>Donnees et communications client-serveur</h2>
 
     <p class="lead">6 columns on desktop, 4 columns on tablets, 3 columns on phones</p>
 
